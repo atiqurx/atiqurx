@@ -1,6 +1,6 @@
 ### Howdy 👋
 
-- 🔭 I’m currently working on [https://trasva.vercel.app/](trasva.com)
+- 🔭 I’m currently working on [trasva.com](https://trasva.vercel.app/)
 <!--
 **atiqurx/atiqurx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
